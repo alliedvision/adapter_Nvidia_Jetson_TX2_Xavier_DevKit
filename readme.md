@@ -6,7 +6,7 @@
 This repository contains open hardware design files for an adapter board supporting the Allied Vision Alvium CSI-2 camera pinout to NVidias TX2 and Xavier Development kit CSI-2 connector compatible devices, created by Allied Vision.
 The board allows the user to interface with two Alvium MIPI CSI-2 compatible cameras over a Flexible Flat Cable (FFC) connector.
 
-This adapter can also be ordered at [Allied Vision](https://www.alliedvision.com/en/meta-header/contact-us/contact-sales.html) or a [qualified Allied Vision distributor](https://www.alliedvision.com/en/about-us/where-we-are.html) under order code **12909** - Adapter Board CSI-2 Nvidia Jetson TX2 / Xavier.
+This adapter can also be ordered at [Allied Vision](https://www.alliedvision.com/en/meta-header/contact-us/contact-sales.html) or a [qualified Allied Vision distributor](https://www.alliedvision.com/en/about-us/where-we-are.html) under order code **14909** - Adapter Board CSI-2 Nvidia Jetson TX2 / Xavier.
 
 ## Getting Started
 
